@@ -1,0 +1,12 @@
+h1{
+    color:green;
+    font-size:50px;
+    text-align: center;
+    text-decoration:underline;
+    font-weight: 750;
+}
+.line{
+    background-color: blue;
+    width:500px;
+    height:10px;
+}
